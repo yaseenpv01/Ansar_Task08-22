@@ -9,10 +9,7 @@ import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.flow.map
 import retrofit2.Response
 
-/**
-Created by Umer Khawaja on 19,March,2021
-Dubai, UAE.
- */
+
 abstract class NetworkBoundRepository<RESULT, REQUEST>() {
 
     fun asFlow() = flow<State<RESULT>> {

@@ -3,10 +3,7 @@ package com.newyork.times.data.remote.model
 import com.google.gson.annotations.SerializedName
 import com.newyork.times.app.model.Article
 
-/**
-Created by Umer Khawaja on 19,March,2021
-Dubai, UAE.
- */
+
 class ArticleResponse{
 
 

@@ -1,9 +1,6 @@
 package com.newyork.times.data.remote.repository
 
-/**
-Created by Umer Khawaja on 19,March,2021
-Dubai, UAE.
- */
+
 import com.newyork.times.app.db.ArticleDatabase
 import com.newyork.times.app.model.Article
 import com.newyork.times.data.remote.model.ArticleResponse

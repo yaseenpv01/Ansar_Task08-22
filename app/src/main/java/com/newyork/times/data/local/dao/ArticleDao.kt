@@ -1,7 +1,4 @@
-/**
-Created by Umer Khawaja on 19,March,2021
-Dubai, UAE.
- */
+
 
 package com.newyork.times.app.db
 

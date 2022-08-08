@@ -1,9 +1,6 @@
 package com.newyork.times.utils
 
-/**
-Created by Umer Khawaja on 19,March,2021
-Dubai, UAE.
- */
+
 object Constants {
 
     const val BUNDLE_KEY_ARTICLE_URL = "articleUrl"
